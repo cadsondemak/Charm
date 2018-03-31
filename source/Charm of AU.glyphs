@@ -182155,7 +182155,6 @@ instanceInterpolations = {
 "56450C88-1299-454A-B666-E6F9AF06B23F" = 1;
 };
 isBold = 1;
-linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
 }
