@@ -1,11 +1,6 @@
 {
 .appVersion = "1141";
-DisplayStrings = (
-"Caro leitor,\012Dia 5 de Julho de 2018, o Plenário do Parlamento Europeu votará se irá continuar com uma proposta de diretiva de direitos de autor que, se aprovada, prejudicará significativamente a Internet aberta como a conhecemos.\012\012A diretiva em vez de atualizar as leis de direito de autor na Europa e promover a participação de todos os cidadãos para a sociedade da informação, ameaça a liberdade online e cria obstáculos para acessar a Web, impondo novas barreiras, filtros e restrições. Se a proposta for aprovada na sua forma atual, poderá ser impossível partilhar um artigo de notícias em redes sociais, ou encontrá-lo através de um motor de busca; a própria Wikipédia poderá estar em risco.\012\012À proposta já se opuseram firmemente mais de 70 cientistas informáticos, entre os quais o criador da Web, Tim Berners-Lee (ver fonte), 169 académicos (ver fonte), 145 organizações de direitos humanos, liberdade de imprensa, investigação científica e indústria tecnológica (ver fonte), e a Fundação Wikimedia, a organização sem fins lucrativos que promove, entre outras, esta enciclopédia livre (ver aqui).\012\012Por estas razões, a comunidade da Wikipédia em Português decidiu colocar esta mensagem na enciclopédia. Queremos continuar a oferecer uma enciclopédia livre, aberta, colaborativa e com conteúdo verificável. Pedimos a todos os Eurodeputados que votem contra o texto atual, reabram a discussão e reconsiderem as numerosas propostas de associações Wikimedia, começando pela eliminação dos artigos 11 e 13, assim como a extensão da liberdade de panorama a toda a União Europeia e a proteção do Domínio Público.",
-"/loChula-thai",
-"/loChula-thai.short"
-);
-copyright = "Copyright © 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
+copyright = "Copyright (c) 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
 customParameters = (
 {
 name = vendorID;
@@ -86,8 +81,8 @@ z
 );
 }
 );
-date = "2017-12-18 09:49:57 +0000";
-designer = "Katatrad Co.,Ltd.";
+date = "2018-07-09 14:06:06 +0000";
+designer = "Katatrad Aksorn Co.,Ltd.";
 designerURL = www.katatrad.com;
 familyName = Charm;
 featurePrefixes = (
@@ -161,35 +156,15 @@ value = -200;
 },
 {
 name = typoLineGap;
-value = 400;
+value = 500;
 },
 {
 name = winAscent;
-value = 1520;
+value = 1330;
 },
 {
 name = winDescent;
-value = 698;
-},
-{
-name = hheaAscender;
-value = 1520;
-},
-{
-name = hheaDescender;
-value = -698;
-},
-{
-name = hheaLineGap;
-value = 100;
-},
-{
-name = underlinePosition;
-value = -100;
-},
-{
-name = underlineThickness;
-value = 50;
+value = 580;
 }
 );
 descender = -200;
@@ -237,39 +212,15 @@ value = -200;
 },
 {
 name = typoLineGap;
-value = 1200;
+value = 500;
 },
 {
 name = winAscent;
-value = 1520;
+value = 1330;
 },
 {
 name = winDescent;
-value = 698;
-},
-{
-name = hheaAscender;
-value = 1520;
-},
-{
-name = hheaDescender;
-value = -698;
-},
-{
-name = hheaLineGap;
-value = 1200;
-},
-{
-name = underlinePosition;
-value = -100;
-},
-{
-name = underlineThickness;
-value = 50;
-},
-{
-name = "New Parameter";
-value = "New Value";
+value = 580;
 }
 );
 descender = -200;
@@ -232858,7 +232809,6 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "56450C88-1299-454A-B666-E6F9AF06B23F" = 1;
 };
-isBold = 1;
 name = Bold;
 weightClass = Bold;
 }
