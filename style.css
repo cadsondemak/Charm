@@ -37,7 +37,6 @@
 }
 
 #block-2 {
-  height: 760px;
   color: #B50027;
   background-color: #FFF;
   font-family: 'CharmRegular';
@@ -45,6 +44,7 @@
   line-height: 140%;
   text-align: left;
   padding-top: 90px;
+  padding-bottom: 90px;
 }
 
 #block-3 {
