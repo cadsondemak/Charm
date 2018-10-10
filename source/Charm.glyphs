@@ -1,7 +1,7 @@
 {
 .appVersion = "1141";
 DisplayStrings = (
-"The 70th Infantry Division of the British Army fought during the Western Desert Campaign of the Second World War. On 10 October 1941 the 6th Infantry Division was re-created as the 70th in an attempt to deceive Axis intelligence concerning the strength of the British military in the Middle East. At the Siege of Tobruk, the division relieved the mainly Australian garrison, which had been defending the port for almost seven months. Under daily aerial and artillery attacks, the division defended the port and conducted nightly offensive patrols against German and Italian positions. Two men from attached units were awarded the Victoria Cross for their actions there during Operation Crusader. The division was withdrawn to Egypt for refitting at the end of 1941, and then placed in reserve. It was transferred to India when Japan entered the war, where it was considered the most experienced and best-trained British formation available in Asia, until its disbandment in November 1943"
+A
 );
 copyright = "Copyright 2018 The Charm Project Authors (https://github.com/cadsondemak/Sarabun)";
 customParameters = (
@@ -92,7 +92,7 @@ z
 );
 }
 );
-date = "2018-07-24 10:11:42 +0000";
+date = "2018-10-10 12:55:10 +0000";
 designer = "Katatrad Aksorn Co.,Ltd.";
 designerURL = "http://www.katatrad.com";
 familyName = Charm;
