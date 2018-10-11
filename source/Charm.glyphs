@@ -1,5 +1,5 @@
 {
-.appVersion = "1141";
+.appVersion = "1171";
 DisplayStrings = (
 A
 );
@@ -319,12 +319,28 @@ ascender = 800;
 capHeight = 684;
 customParameters = (
 {
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = hheaAscender;
+value = 1115;
+},
+{
+name = hheaDescender;
+value = -434;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = typoAscender;
-value = 900;
+value = 1115;
 },
 {
 name = typoDescender;
-value = -350;
+value = -434;
 },
 {
 name = typoLineGap;
@@ -332,27 +348,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1322;
+value = 1639;
 },
 {
 name = winDescent;
-value = 576;
-},
-{
-name = "Master Icon Glyph Name";
-value = n;
-},
-{
-name = hheaAscender;
-value = 1322;
-},
-{
-name = hheaDescender;
-value = -576;
-},
-{
-name = hheaLineGap;
-value = 0;
+value = 714;
 }
 );
 descender = -200;
@@ -387,12 +387,28 @@ ascender = 800;
 capHeight = 684;
 customParameters = (
 {
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = hheaAscender;
+value = 1115;
+},
+{
+name = hheaDescender;
+value = -434;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = typoAscender;
-value = 900;
+value = 1115;
 },
 {
 name = typoDescender;
-value = -350;
+value = -434;
 },
 {
 name = typoLineGap;
@@ -400,27 +416,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1322;
+value = 1639;
 },
 {
 name = winDescent;
-value = 576;
-},
-{
-name = "Master Icon Glyph Name";
-value = n;
-},
-{
-name = hheaAscender;
-value = 1322;
-},
-{
-name = hheaDescender;
-value = -576;
-},
-{
-name = hheaLineGap;
-value = 0;
+value = 714;
 }
 );
 descender = -200;
@@ -175111,5 +175111,5 @@ manufacturer = "Cadson Demak Co.,Ltd.";
 manufacturerURL = "http://www.cadsondemak.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
